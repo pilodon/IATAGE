@@ -45,12 +45,12 @@ var posWords = API.shuffle([
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image: 'ym1.jpg'},
-                {image: 'ym2.jpg'},
+    		    {image: 'ym2.jpg'},
                 {image: 'ym3.jpg'},
+                {image: 'ym5.jpg'},
                 {image: 'yf1.jpg'},
-                {image: 'yf2.jpg'},
-                {image: 'yf3.jpg'}
+                {image: 'yf4.jpg'},
+                {image: 'yf5.jpg'}
 			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
